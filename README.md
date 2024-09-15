@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hola, mi nombre es Lester David 👋 ,  Soy un desarrollador web con el pensum cerrado en la Universidad Mariano Gálvez de Guatemala (UMG),  <br>Me considero una persona autodidacta en el aprendizaje de nuevas tecnologías, he realizado unos proyectos a nivel jr con el fin de demostrar la capacidad de alcanzar los objetivos propuestos!  <br>Me estoy abriendo paso de manera profesional en este mundo de la tecnología  así que tengo la mente abierta a aprender nuevos conocimientos, participar en proyectos que puedan cambiar el mundo siempre  con determinación y entusiasmo! 
+# 💫 Hola, mi nombre es Lester David 👋
+Soy un desarrollador web con el pensum cerrado en la Universidad Mariano Gálvez de Guatemala (UMG) en Ingeniería en Sistemas  
+<br>Me considero una persona autodidacta en el aprendizaje de nuevas tecnologías, he realizado unos proyectos a nivel jr con el fin de demostrar la capacidad de alcanzar los objetivos propuestos!  <br>Me estoy abriendo paso de manera profesional en este mundo de la tecnología  así que tengo la mente abierta a aprender nuevos conocimientos, participar en proyectos que puedan cambiar el mundo siempre  con determinación y entusiasmo! 
+
+
 
 
 ## 🌐 Socials:
